@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# テスト・カバレッジ
+.pytest_cache/
+.coverage
+htmlcov/
+
+# DB（ローカルデータ）
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
+*.swp
