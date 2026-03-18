@@ -5,6 +5,15 @@ APIを叩きながら仕様を解明し、蓄積した結果から **OpenAPI YAM
 
 ---
 
+## デモ
+
+URLからAPIパース → GETリクエスト送信 → 結果表示 -> OpenAPI YAML 生成
+
+<video src="https://github.com/user-attachments/assets/01fc81b0-e5b1-4b42-a494-49e463db131f" width="80%" controls></video>
+
+
+---
+
 ## 特徴
 
 - **認証方式を動的切り替え** — Bearer Token / APIキー(ヘッダー・クエリ) / なし に対応。認証方式が不明な段階からでも使い始められます
